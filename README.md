@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **Swap-nil-2003/Swap-nil-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Streak Stats
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=Swap-nil-2003 
