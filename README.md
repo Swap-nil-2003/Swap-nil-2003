@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Swap-nil-2003/github-readme-stats) 
+
 # Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Swap-nil-2003)](https://git.io/streak-stats)
