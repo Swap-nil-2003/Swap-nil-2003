@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Swap-nil-2003/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-nil-2003&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Swap-nil-2003/github-readme-stats) 
 
 # Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Swap-nil-2003)](https://git.io/streak-stats)
