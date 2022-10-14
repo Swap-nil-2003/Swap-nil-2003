@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 # Github Stats
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003&count_private=true&theme=merko) 
+
+# Badges
+[![@swapnil2003's Holopin board](https://holopin.me/swapnil2003)](https://holopin.io/@swapnil2003) 
