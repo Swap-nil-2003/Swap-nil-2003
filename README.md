@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on front end technologies and open source development. 
 - 🌱 I’m currently learning about Cloud Computing and AI/ML
 - 📫 How to reach me: swapnilaichbhaumik@gmail.com 
-- 😄 Pronouns: He/Him
 
 # Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-nil-2003&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark)](https://github.com/Swap-nil-2003/github-readme-stats) 
