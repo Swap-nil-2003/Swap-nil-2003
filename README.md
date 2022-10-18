@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on front end technologies and open source development. 
-- 🌱 I’m currently learning about cloud and AI/ML
+- 🌱 I’m currently learning about Cloud Computing and AI/ML
 - 📫 How to reach me: swapnilaichbhaumik@gmail.com 
 - 😄 Pronouns: He/Him
 
