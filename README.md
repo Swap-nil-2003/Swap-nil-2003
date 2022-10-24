@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-nil-2003&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark)](https://github.com/Swap-nil-2003/github-readme-stats) 
 
 # Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Swap-nil-2003&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Swap-nil-2003&show_icons=true&theme=dark)](https://git.io/streak-stats)
 
 # Github Stats
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
