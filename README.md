@@ -15,3 +15,6 @@
 
 # Github Stats
 [![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# Profile Views
+![Profile views](https://gpvc.arturio.dev/[Swap-nil-2003]) 
