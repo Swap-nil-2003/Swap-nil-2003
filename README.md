@@ -14,5 +14,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Swap-nil-2003&theme=merko)](https://git.io/streak-stats)
 
 # Github Stats
-[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
