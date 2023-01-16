@@ -8,7 +8,7 @@
 
 
 # Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Swap-nil-2003&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swap-nil-2003&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 # Github Stats
 <a href="https://quine.sh/profile/swapnil03"><img src="https://stats.quine.sh/swapnil03/github" alt="Swapnil Aichbhaumik 's GitHub stats" width="840px"></a>
