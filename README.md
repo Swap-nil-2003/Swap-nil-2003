@@ -7,7 +7,7 @@
 - 📫 How to reach me: swapnilaichbhaumik@gmail.com OR https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224
 
 # Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-nil-2003&theme=tokyonight)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003)](https://github.com/anuraghazra/github-readme-stats)
 
 # Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swap-nil-2003&theme=radical&hide_border=true)](https://git.io/streak-stats)
