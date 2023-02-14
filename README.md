@@ -15,3 +15,6 @@
 # Github Stats
 <a href="https://quine.sh/profile/swapnil03"><img src="https://stats.quine.sh/swapnil03/github" alt="Swapnil Aichbhaumik 's GitHub stats" width="840px"></a>
 
+# Other Stats
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003)](https://github.com/Swap-nil-2003
+/github-readme-stats)
