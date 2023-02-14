@@ -16,4 +16,4 @@
 <a href="https://quine.sh/profile/swapnil03"><img src="https://stats.quine.sh/swapnil03/github" alt="Swapnil Aichbhaumik 's GitHub stats" width="840px"></a>
 
 # Other Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swap-nil-2003&show_icons=true&theme=radical)](https://github.com/Swap-nil-2003/github-readme-stats)
