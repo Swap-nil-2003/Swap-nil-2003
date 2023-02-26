@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on front end technologies and open source development. 
 - 🌱 I’m currently learning about AI/ML and Blockchain Development.
-- 📫 How to reach me: swapnilaichbhaumik@gmail.com OR https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224
+- 📫 How to reach me:swapnilaichbhaumik@gmail.com OR https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224
 
 # Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swap-nil-2003&layout=compact&theme=dark)](https://github.com/Swap-nil-2003/github-readme-stats)
