@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working with front end technologies and open source development. 
+- 🔭 I’m currently working with front end technologies and open source tools. 
 - 🌱 Learning about AI/ML and Blockchain Development.
 - 📫 How to reach me: swapnilaichbhaumik@gmail.com OR https://www.linkedin.com/in/swapnil-aichbhaumik-28a980224
 
